@@ -14,6 +14,8 @@
 
 ## Installing GIT and pull repo
 - ```sudo apt install git```
+- ```mkdir wireguard```
+- ```cd wireguard```
 - ```git pull https://github.com/guitaristdave/vpn.git```
 
 ## Up docker container
