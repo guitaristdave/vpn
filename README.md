@@ -1,3 +1,7 @@
+# WireGuard Server Docker
+
+
+## Installing Docker
 - ```sudo apt update```
 - ```sudo apt install apt-transport-https ca-certificates curl software-properties-common```
 - ```curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -```
@@ -8,6 +12,9 @@
 - ```docker run hello-world```
 - ```docker system prune -a```
 
+## Installing GIT and pull repo
 - ```sudo apt install git```
 - ```git pull https://github.com/guitaristdave/vpn.git```
+
+## Up docker container
 - ```docker-compose up -d```
