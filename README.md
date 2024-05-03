@@ -18,5 +18,5 @@
 - ```cd wireguard```
 - ```git pull https://github.com/guitaristdave/vpn.git```
 
-## Up docker container
+## Up Docker container
 - ```docker-compose up -d```
