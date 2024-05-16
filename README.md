@@ -12,11 +12,11 @@
 - ```docker run hello-world```
 - ```docker system prune -a```
 
-## Installing GIT and pull repo
+## Installing GIT and clone repo
 - ```sudo apt install git```
 - ```mkdir wireguard```
 - ```cd wireguard```
-- ```git pull https://github.com/guitaristdave/vpn.git```
+- ```git clone https://github.com/guitaristdave/vpn.git```
 
 ## Up Docker container
 - ```docker-compose up -d```
