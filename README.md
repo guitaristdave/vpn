@@ -18,5 +18,9 @@
 - ```cd wireguard```
 - ```git clone https://github.com/guitaristdave/vpn.git```
 
+>[!IMPORTANT]
+>## Change the number of users
+>In docker-compose.yml file edit the PEERS value (default PEERS=1)
+
 ## Up Docker container
 - ```docker-compose up -d```
